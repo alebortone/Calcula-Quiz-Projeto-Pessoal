@@ -40,11 +40,10 @@ Para rodar o projeto, você precisará ter o **Java JDK (versão 11 ou superior)
 
 
 # 1. Clone o repositório
-git clone [link do seu repositório aqui]
+git clone [https://github.com/alebortone/Calcula-Quiz-Projeto-Pessoal]
 
 # 2. Navegue até a pasta 'src' do projeto
-cd [caminho para a past<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/536fae0a-b253-4358-bc6d-ae23fa80aeeb" />
-a do projeto]/src
+cd [QuizMatematica]/src
 
 # 3. Compile todos os arquivos .java
 javac *.java
