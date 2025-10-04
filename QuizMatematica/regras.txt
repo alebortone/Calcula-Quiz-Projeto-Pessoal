@@ -1,0 +1,36 @@
+Olá seja muito bem-vindo! Este é o Calcula Quiz!
+
+Este quiz foi criado com foco na matemática, mais diretamente na multiplicação.
+Seu objetivo é ajudar no raciocínio rápido, na habilidade de contas de cabeça e,
+claro, entreter com uma pitada de competição!
+
+-------------------------
+          REGRAS
+-------------------------
+
+1 - SEM CALCULADORA!
+Como o foco é o raciocínio e o treino de contas, é expressamente proibido o uso
+de calculadoras ou qualquer outra ajuda. Acredite no seu potencial, nós sabemos
+que você consegue!
+
+2 - NÍVEIS DE DIFICULDADE
+Os níveis são divididos em Fácil, Médio e Difícil, cada um com 5 questões de multiplicação.
+
+Fácil: Contas com números de 2 a 9. Perfeito para aquecer!
+Médio: Um dos números será de 10 a 50 e o outro de 5 a 20.
+Difícil: Um dos números será de 50 a 100 e o outro de 20 a 50. Um verdadeiro desafio!
+
+3 - SISTEMA DE PONTUAÇÃO
+Ao final de cada quiz, você receberá uma pontuação que poderá ser salva no ranking.
+Sua pontuação é a soma dos PONTOS POR ACERTO + BÔNUS DE TEMPO. A estratégia muda a cada nível:
+
+Fácil: Acertos valem 20 pontos e o bônus de tempo é alto. A velocidade é crucial!
+Médio: Acertos valem 60 pontos, oferecendo um bom equilíbrio entre velocidade e precisão.
+Difícil: Acertos valem 100 pontos e o bônus de tempo é baixo. Aqui, cada acerto é mais valioso do que a rapidez.
+
+4 - APRENDA E DIVIRTA-SE!
+Esta regra é essencial para que o propósito do quiz faça sentido. Esperamos que você se divirta e, com isso, aprenda também.
+
+-------------------------
+        BORA JOGAR?
+-------------------------
