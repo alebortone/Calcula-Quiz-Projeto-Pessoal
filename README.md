@@ -12,15 +12,6 @@ ________________________________________________________________________________
 * **Gerenciamento de Scores:** Funcionalidade para remover pontuações do ranking.
 * **Interface Limpa:** Uso de função para limpar a tela do console, melhorando a experiência do usuário.
 
-_________________________________________________________________________________________________________________________________________________________________________________________________________________
-  
-## 📸 Screenshots
-
-| Menu Principal                               | Relatório Final                              | Ranking                                      |
-| -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
-
-| ![Menu Principal]([<img width="459" height="151" alt="Captura de tela 2025-10-04 190047" src="https://github.com/user-attachments/assets/0d319d77-3082-4857-89b7-ad778dc958cc" />]) | ![Relatório Final]([<img width="660" height="394" alt="Captura de tela 2025-10-04 190350" src="https://github.com/user-attachments/assets/1c8d43d9-2055-4646-a75f-d63d2c82d7e9" />]) | ![Ranking]([<img width="505" height="184" alt="Captura de tela 2025-10-04 190221" src="https://github.com/user-attachments/assets/d2cba408-0ff7-42fa-8a54-c2d21ae53c72" />]) |
-
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🛠️ Tecnologias e Conceitos Aplicados
