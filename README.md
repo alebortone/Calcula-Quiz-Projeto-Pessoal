@@ -1,7 +1,7 @@
 🎮 Calcula Quiz
 
-Um quiz de matemática em Java, desenvolvido a partir de uma atividade da disciplina de IPOI (Introdução à Programação Orientada a Objetos) na UFLA.
-O jogo permite ao usuário responder questões de multiplicação em diferentes níveis de dificuldade, acumular pontos e salvar sua pontuação em um ranking no estilo retrô (inspirado em fliperamas antigos).
+**Calcula Quiz** é uma aplicação de console desenvolvida em Java que desafia o raciocínio rápido e a habilidade de cálculo mental dos jogadores através de um quiz de multiplicação. O projeto nasceu como uma atividade acadêmica simples da disciplina de Introdução à Programação Orientada a Objetos (IPOO) e evoluiu para uma aplicação completa, com o objetivo de treinar e entreter com uma pitada de competição.
+
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 ✨ Funcionalidades
 * **Menu Interativo:** Navegação completa pela aplicação, incluindo iniciar jogo, ver ranking, ler regras e sair.
