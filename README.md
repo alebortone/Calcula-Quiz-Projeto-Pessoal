@@ -19,6 +19,8 @@ ________________________________________________________________________________
 | Menu Principal                               | Relatório Final                              | Ranking                                      |
 | -------------------------------------------- | -------------------------------------------- | -------------------------------------------- |
 
+| ![Menu Principal]([<img width="459" height="151" alt="Captura de tela 2025-10-04 190047" src="https://github.com/user-attachments/assets/0d319d77-3082-4857-89b7-ad778dc958cc" />]) | ![Relatório Final]([<img width="660" height="394" alt="Captura de tela 2025-10-04 190350" src="https://github.com/user-attachments/assets/1c8d43d9-2055-4646-a75f-d63d2c82d7e9" />]) | ![Ranking]([<img width="505" height="184" alt="Captura de tela 2025-10-04 190221" src="https://github.com/user-attachments/assets/d2cba408-0ff7-42fa-8a54-c2d21ae53c72" />]) |
+
 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 🛠️ Tecnologias e Conceitos Aplicados
@@ -50,7 +52,8 @@ Para rodar o projeto, você precisará ter o **Java JDK (versão 11 ou superior)
 git clone [link do seu repositório aqui]
 
 # 2. Navegue até a pasta 'src' do projeto
-cd [caminho para a pasta do projeto]/src
+cd [caminho para a past<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/536fae0a-b253-4358-bc6d-ae23fa80aeeb" />
+a do projeto]/src
 
 # 3. Compile todos os arquivos .java
 javac *.java
@@ -80,6 +83,6 @@ ________________________________________________________________________________
  _________________________________________________________________________________________________________________________________________________________________________________________________________________
 👨‍💻 Autor
 
-Projeto desenvolvido por Alexandre Bertone durante estudos de Java e POO na UFLA.
+Projeto desenvolvido por Alexandre Bortone durante estudos de Java e POO na UFLA.
 
 📂 Confira também no LinkedIn: [https://www.linkedin.com/in/alexandre-bortone/]
