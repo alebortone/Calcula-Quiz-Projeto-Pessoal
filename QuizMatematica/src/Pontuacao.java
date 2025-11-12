@@ -21,30 +21,32 @@ public class Pontuacao {
     public int contarPontos(int acertos) {
 
         double bonusTempo = 0;
-        int score = 0;
+        int pontosBase = 0;
+
+        if (acertos ==0){
+            return 0;
+        }
 
         if (peso == 1 && acertos > 0) {
-            acertos *= 20;
+            pontosBase = acertos*20;
             bonusTempo += 1000 - (int)(totalTempo.toSeconds() * 10); // faz com que 10 segundos para baixo seja o tempo perfeito
         } else if (peso == 2) {
-            acertos *= 60;
+            pontosBase = acertos*60;
             bonusTempo += 1000 -(int) (totalTempo.toSeconds() * 5); // faz com que 60 segundos para baixo seja o tempo perfeito
         } else {
-            acertos *= 100;
+            pontosBase = acertos*100;
             bonusTempo += 1000 - (int)(totalTempo.toSeconds() * 2); // faz com que 250 segundos para baixo seja o tempo perfeito
         }
         // O criterio usado foi: para questões mais faceis o concluir rápido é mais valioso, já para questões mais difíceis o acerto é o que mais vale .
         
         
-        if (acertos == 0)
-          score = 0;
-        else
-        score += acertos + bonusTempo;  // A pontuação é a soma dos acertos + bônus de tempo.
+        bonusTempo *= acertos/5.0; // dessa forma eu faço uma ponderação do bonus de tempo com a quantidade de acertos, caso não seja 5, não sera o bonus maximo
+        int score = (int) (pontosBase + bonusTempo);  // A pontuação é a soma dos acertos + bônus de tempo.
         
         if(score >1000){
             score =1000;  // o score perfeito é 1000, sendo possivel de alcançar no tempo perfeito e acertando todas as questões
         } else if( score < 0){
-            score = acertos; // previne que a pontuação seja negativa e que mesmo demorando o usuario so perde o bonus.
+            score = pontosBase; // previne que a pontuação seja negativa e que mesmo demorando o usuario so perde o bonus.
         }
        
         return score;
